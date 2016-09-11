@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1>img{
+    color:white;
+    font-family:fantasy;
+    border-radius:10px; 
+    height:500px;
+   
+  
+
+
+}
+
+
+.header>ul>li{
+    color:whitesmoke;
+    display:inline;
+  border-style:hidden;
+    
+    float:left;
+    margin-top:66px;
+ 
+   
+    
+    
+}
+
+
+
+h2{
+    float:left;
+    color:darkred;
+    margin-right:100px;
+    clear:left
+}
+
+p{
+    color:white;
+    float:left;
+    
+}
